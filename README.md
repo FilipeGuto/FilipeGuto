@@ -1,11 +1,11 @@
-<h1> Hi! I'm Filipe. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1> Olá! muito prazer. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
 
-<li> 💻 𝖨'𝗆 𝗌𝗍𝗎𝖽𝗒𝗂𝗇𝗀 𝗍𝗈 𝖻𝖾𝖼𝗈𝗆𝖾 𝖺 𝗐𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
-<li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍/𝖧𝖳𝖬𝖫/𝖢𝖲𝖲 </li>
-<li> 🔭 I love Cosmos and Universe </li>
-<li> 💻 Hobby: Tecnology and Games </li>
+<li> 💻 Sou estudante de desenvolvimento web </li>
+<li> 🧠 Estou aprendendo diariamente: 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍/𝖧𝖳𝖬𝖫/𝖢𝖲𝖲/React/Node.js/MongoDB/MySQL </li>
+<li> 🔭 Amo o universo, a natureza e poder aprender mais sobre qualquer assunto fascinante </li>
+<li> 💻 Estou em transição de carreira porém com foco no meu obejtivo que é se tornar uma pessoa e um desenvolvedor com excelencia </li>
 <br>
 <div>
   <a href="https://github.com/filipeguto">
