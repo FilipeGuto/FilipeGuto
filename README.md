@@ -2,7 +2,7 @@
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
 
-<li> 💻 Sou desenvolvimento web </li>
+<li> 💻 Sou Desenvolvedor web </li>
 <li> 🧠 Estou aprendendo diariamente: 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍/𝖧𝖳𝖬𝖫/𝖢𝖲𝖲/React/Node/MongoDB/MySQL </li>
 <li> 🔭 Amo o universo, a natureza e poder aprender mais sobre qualquer assunto fascinante </li>
 <li> 💻 Estou em transição de carreira porém com foco no meu obejtivo que é se tornar uma pessoa e um desenvolvedor com excelencia </li>
